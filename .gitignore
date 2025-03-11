@@ -1,0 +1,20 @@
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+NTUSER.*
+
+# Ignore system folders
+AppData/
+OneDrive/
+Downloads/
+Videos/
+Music/
+Saved Games/
+Searches/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+.eclipse/
